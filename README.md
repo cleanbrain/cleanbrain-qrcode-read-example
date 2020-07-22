@@ -1,1 +1,1 @@
-# cleanbrain-qrcode-read-example
+# qrcode-read-example
